@@ -1,0 +1,28 @@
+
+1. Compiling the Code
+To make the executable file for running the NDOT models, use the following command:
+
+g++ -fopenmp functions.cpp main_code.cpp -o job.out
+
+2. Running the Code
+Once the compilation is successful, you can run the code by executing the following:
+
+
+./job.out
+
+3. Simulations for CaGP, DCP, and CaCO3
+For simulations involving CaGP, DCP, or CaCO3, follow these steps:
+
+Modify the calcium and phosphate concentrations in the ion.txt file.
+
+Then, follow the same procedure for compiling and running the code as mentioned above.
+
+4. Output Files
+The output will be written to the following files:
+
+Files starting with all_ion: These will store the ion concentration as a function of time.
+
+Files starting with remin_demin: These will store the porosity of the enamel as a function of time.
+
+5. Changing Parameters
+If you need to make any adjustments to the simulation parameters, you can do so by editing the parameter.h file. Be sure to make any necessary changes before running the simulation.

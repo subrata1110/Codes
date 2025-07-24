@@ -1,0 +1,12 @@
+K_eq(mol/m^3)	N_reac	N_product	reac	produc		
+0.138038426	1	2	lach	lac1n	h1p
+0.177827941	1	2	forh	for1n	h1p
+0.017378008	1	2	aceh	ace1n	h1p
+0.013489629	1	2	proh	pro1n	h1p
+0.063095734	1	2	such	suc1n	h1p
+0.002344229	1	2	suc1n	suc2n	h1p
+0.000446684	1	2	co2	hco31n	h1p
+6.17E-05	1	2	pho1n	pho2n	h1p
+0.354813389	1	2	sh21p	sh	h1p
+0.023988329	1	2	sh	s1n	h1p
+1	1	2	sca1p	s1n	ca2p

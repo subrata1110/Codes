@@ -1,0 +1,2 @@
+inh_type	K_inh(mol/m^3)
+STAh1p	0.001

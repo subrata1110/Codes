@@ -1,0 +1,3 @@
+K_eq(mol/m^3)	N_reac	N_product	reac	produc		
+0.138038426	1	2	lach	lac1n	h1p
+6.17E-05	1	2	pho1n	pho2n	h1p

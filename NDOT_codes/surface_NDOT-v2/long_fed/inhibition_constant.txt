@@ -1,0 +1,13 @@
+inh_type	K_inh(mol/m^3)
+STAh1p	0.0158
+STNh1p	0.00158
+ACTh1p	0.00158
+STAo2	0.0002
+STNo2	0.0002
+ACTo2	0.0002
+STAglu	2.2
+STNglu	2.2
+ACTglu	2.2
+STApgsta	0.00005
+STNpgstn	0.00005
+ACTpgact	0.00005
